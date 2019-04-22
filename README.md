@@ -1,2 +1,3 @@
 # hello-world
-A sandbox repository
+And now, for something completely different...
+...a sandbox repository!
